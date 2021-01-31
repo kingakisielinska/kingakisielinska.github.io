@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (Just for testing)
-nav_exclude: true
+nav_order: 3
 ---
 
 # Will SVGs render?
