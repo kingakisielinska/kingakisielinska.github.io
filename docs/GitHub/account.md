@@ -4,7 +4,7 @@ title: Account on GitHub
 parent: GitHub
 nav_order: 1
 ---
-
+ 
 # How to create an account on GitHub?  
 
 ![logo](/assets/images/github.png) 

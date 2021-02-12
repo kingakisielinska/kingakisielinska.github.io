@@ -4,7 +4,7 @@ title: GitHub Desktop
 parent: GitHub
 nav_order: 2
 ---
-
+ 
 # GitHub Desktop  
 ![GitHubDesktop](/assets/images/ghdesktop.png) 
 

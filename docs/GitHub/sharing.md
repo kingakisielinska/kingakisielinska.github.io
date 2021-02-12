@@ -4,7 +4,7 @@ title: Sharing the repository
 parent: GitHub
 nav_order: 5
 ---
-
+ 
 # Sharing the repository 
 ![GitHubDesktop](/assets/images/ghdesktop.png) 
 
