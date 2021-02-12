@@ -11,7 +11,7 @@ nav_order: 4
 1.	Open GitHub Desktop.
 2.	Click **Repository** on the navigation bar.
 3.	Select **Show in Finder** (MacOS) / **Open in Explorer** (Windows).
-4.	Put the markdown file in the folder.
+4.	Add the markdown files in this folder.
 5.	Open GitHub Desktop.
 6.	Open **Changes** tab and verify if the file uploaded.
 7.	Write a summary in the **Summary** field.

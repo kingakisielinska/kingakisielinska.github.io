@@ -6,7 +6,7 @@ nav_order: 5
 ---
  
 # Sharing the repository 
-![sharing](/assets/images/share) 
+![sharing](/assets/images/share.png) 
 
 Sharing the repository with users  
 1.	Go to [this website](https://github.com//).

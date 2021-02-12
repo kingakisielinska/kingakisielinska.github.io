@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating repository to GitHub
+title: Creating repository on GitHub
 parent: GitHub
 nav_order: 3
 ---
