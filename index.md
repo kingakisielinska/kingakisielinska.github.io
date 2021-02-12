@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Documentation on using Visual Studio Code"
+description: "Documentation on Visual Studio Code"
 permalink: /
 ---
 
