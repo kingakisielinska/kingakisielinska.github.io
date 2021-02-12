@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Tool instalation
+title: Visual Studio Code instalation
 nav_order: 2
 ---
-Tool instalation  
+Visual Studio Code instalation  
 =======  
+
+![logo](/assets/images/VSC.png) 
 
 # How to install Visual Studio Code?  
 
