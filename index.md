@@ -22,5 +22,3 @@ I am a postgraduate student at Vistula University in Warsaw, Poland. This site c
 There is a search bar at the top of the page where you can type in a word of interest and search for it on this page.  
 
 On the left side there is a navigation menu that contains sub-pages.
-
-Below that is a table of contents of all the topics discussed.  
