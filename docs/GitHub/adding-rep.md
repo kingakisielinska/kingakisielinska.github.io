@@ -11,9 +11,9 @@ nav_order: 5
 1.	Open GitHub Desktop.
 2.	Click **Repository** on the navigation bar.
 3.	Select **Show in Finder** (MacOS) / **Open in Explorer** (Windows).
-4.	Add the markdown files in this folder.
+4.	Add the markdown files to this folder.
 5.	Open GitHub Desktop.
-6.	Open **Changes** tab and verify if the file uploaded.  
+6.	Open **Changes** tab and verify if the file is uploaded.  
 
 
 ![vscoptions](/assets/images/changes.png)   
