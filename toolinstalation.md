@@ -36,6 +36,9 @@ Visual Studio Code instalation
 
 1.	Open Visual Studio Code.
 2.	Select **Extensions** from the activity bar.
+
+![logo](/assets/images/extentions.png)
+
 3.	Search and choose the extension you want to add, Markdown All In One, for example.
 4.	Click on the name of the extension.
 5.	Click **Install**.
