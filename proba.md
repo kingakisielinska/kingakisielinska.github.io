@@ -1,7 +1,7 @@
 ---
 layout: default
-title: (Just for testing)
-nav_order: 1
+title: Markdown's basics
+nav_order: 2
 ---
 
 How to use Markdown?
