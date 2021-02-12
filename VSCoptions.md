@@ -11,11 +11,12 @@ On the menu bar, click Help and select Interactive Playground. There you can try
 
 ![vscoptions](/assets/images/vscIEP.png) 
 
-Commands:  
+Here are some basic commands:  
 
 
-Use shortcut:  
-Windows: Shift+Ctrl+p / Mac: Cmd+p, enter > - to open a search bar and Access all available commands based on your current context. Examplary:  
+Use this shortcut:  
+Windows: Shift+Ctrl+p / Mac: Cmd+p, enter > - to open a search bar and Access all available commands based on your current context.  
+Here are some examplary ones:  
 
 * **Preview**: Open Preview to the Side  
 * **Whitespace**: View > Render Whitespace
