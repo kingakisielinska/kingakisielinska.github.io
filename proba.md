@@ -6,7 +6,7 @@ nav_order: 4
 
 How to use Markdown?
 =
-
+![md](/assets/images/markdown.png) 
 
 # Markdown basic functionalities  
 
