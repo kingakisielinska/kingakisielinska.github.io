@@ -21,4 +21,4 @@ I am a postgraduate student in Technical Communication at Vistula University in 
 
 There is a search bar at the top of the page where you can type in a word of interest and search for it on this page.  
 
-On the left side there is a navigation menu that contains various sub-pages.
+On the left side there is a navigation menu that contains various sub-pages.  
