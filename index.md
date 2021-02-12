@@ -14,7 +14,7 @@ This site is designed for educational purposes.
 
 This site is created by Kinga Kisielińska.  
 
-I am a postgraduate student at Vistula University in Warsaw, Poland. This site contains my notes from Technologies of Technical Communication classes.
+I am a postgraduate student at Vistula University in Warsaw, Poland. This site contains my notes from Technical Communication Technologies classes.
 
 ![logo](/assets/images/1-vistul-university-en.png)   
 
