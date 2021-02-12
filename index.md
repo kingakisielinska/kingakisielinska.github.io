@@ -27,7 +27,7 @@ On the left side there is a navigation menu that the following sub-pages:
 * Visual Studio Code installation
 * Visual Studio Code basic options
 * Markdown's basics
-* Github 
+* Github:
     - Account on Github
     - GitHub Desktop
     - Creating private repository on GitHub
