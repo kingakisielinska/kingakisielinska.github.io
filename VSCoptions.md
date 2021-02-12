@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VSC basic options
+title: Visual Studio Code basic options
 nav_order: 3
 ---
 
