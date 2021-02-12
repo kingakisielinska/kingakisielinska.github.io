@@ -6,10 +6,10 @@ nav_order: 5
 ---
  
 # Sharing the repository 
-![GitHubDesktop](/assets/images/ghdesktop.png) 
+![sharing](/assets/images/share) 
 
 Sharing the repository with users  
-1.	Go to [this website](https://github.com//)
+1.	Go to [this website](https://github.com//).
 2.	Open your repository.
 3.	Click **Settings** on the right.
 4.	In the left navigation panel, go to **Manage access**.

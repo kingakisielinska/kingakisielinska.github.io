@@ -5,7 +5,9 @@ parent: GitHub
 nav_order: 3
 ---
  
-# Creating repository to GitHub
+# Creating repository on GitHub  
+
+![create-repository](/assets/images/create.png) 
 
 1.	Open GitHub Desktop.  
 2.	Select **Create a new repository on your hard drive**.  
@@ -17,5 +19,5 @@ nav_order: 3
 8.	In GitHub.com tab, do not change the name and description.  
 9.	Check **Keep this code private** checkbox.  
 10.	Click **ublish repository**.  
-11.	Log in to [this website](https://github.com//) 
+11.	Log in to [this website](https://github.com//). 
 12.	Search for the created repository.  
