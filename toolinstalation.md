@@ -13,9 +13,6 @@ Visual Studio Code instalation
 
 1.	Go to [link](https://code.visualstudio.com/)   
 2.	Click **Download for Mac/Win**.  
-
-![vscdownload](/assets/images/vsc1.png) 
-
 3.	Save the file on your computer.  
 4.	Locate the saved file and double-click to open.  
 5.	Extract the file to the chosen location on your computer.  
@@ -26,8 +23,6 @@ Visual Studio Code instalation
 
 1.	Open Visual Studio Code.
 2.	On the menu bar, click **File** and select **New File**.
-
-![vscdownload](/assets/images/vsc2.png) 
 3.	Add content.
 4.	On the menu bar, click **File**, select **Save as** and select **md** format.
 5.	Click **Save** to save the document.  
@@ -41,5 +36,3 @@ Visual Studio Code instalation
 3.	Search and choose the extension you want to add, Markdown All In One, for example.
 4.	Click on the name of the extension.
 5.	Click **Install**.
-
-![vscdownload](/assets/images/vsc3.png) 
