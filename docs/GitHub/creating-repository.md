@@ -18,6 +18,6 @@ nav_order: 3
 7.	Click **Publish repository**.  
 8.	In GitHub.com tab, do not change the name and description.  
 9.	Check **Keep this code private** checkbox.  
-10.	Click **ublish repository**.  
+10.	Click **Publish repository**.  
 11.	Log in to [this website](https://github.com//). 
 12.	Search for the created repository.  
