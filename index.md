@@ -18,6 +18,7 @@ I am a postgraduate student in Technical Communication at Vistula University in 
 
 ![logo](/assets/images/1-vistul-university-en.png)   
 
+# Navigation
 
 There is a search bar at the top of the page where you can type in a word of interest and search for it on this page.  
 
