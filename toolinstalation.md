@@ -11,7 +11,7 @@ Visual Studio Code instalation
 # How to install Visual Studio Code?  
 
 
-1.	Go to [this website](https://code.visualstudio.com/)   
+1.	Go to [this website](https://code.visualstudio.com/).   
 2.	Click **Download for Mac/Win**.  
 3.	Save the file on your computer.  
 4.	Locate the saved file and double-click to open.  
