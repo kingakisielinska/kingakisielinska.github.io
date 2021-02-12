@@ -33,10 +33,10 @@ nav_order: 4
 16.	Click **Push origin**.
 17.	Go to [this website](https://github.com//) and log in.
 18. Open your repository and verify if the documents uploaded.  
-19. 
+    
     ![environments](/assets/images/environments.png)
 
-20. Click **Environments** on the left side of the page. You will be redirected to deployments.
-21. Click **View deployment**. Your GitHub page will open.  
+19. Click **Environments** on the left side of the page. You will be redirected to deployments.
+20. Click **View deployment**. Your GitHub page will open.  
 
 ![deployment](/assets/images/deployment.png)
