@@ -2,7 +2,8 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Documentation on Visual Studio Code"
+description: "Documentation on Visual  
+Studio Code"
 permalink: /
 ---
 
@@ -13,7 +14,7 @@ This site is designed for educational purposes.
 
 This site is created by Kinga Kisielińska.  
 
-It contains my notes from Technologies of Technical Communication classes,  a postgraduate studies at Vistula University.  
+I am a postgraduate student at Vistula University in Warsaw, Poland. This site contains my notes from Technologies of Technical Communication classes.
 
 ![logo](/assets/images/1-vistul-university-en.png)   
 
