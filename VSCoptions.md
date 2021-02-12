@@ -7,7 +7,7 @@ nav_order: 3
 Visual Studio Code basic options
 =========  
 
-On the menu bar, click **Help** and select Interactive Playground. There you can try out VS Code's features.  
+On the menu bar, click **Help** and select Interactive Playground. There you can try out VS Code's features.    
 
 ![vscoptions](/assets/images/vscIEP.png) 
 
