@@ -1,6 +1,6 @@
 name: Konto stworzone przez kingakisielinska
-title: Documentation test 31.01.2020
-description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+title: Documentation on using Visual Studio Code
+description: Technologies of Technical Communication classes,  a postgraduate studies at Vistula University
 remote_theme: kingakisielinska/just-the-docs
 
 color_scheme: light 
@@ -14,4 +14,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw).
