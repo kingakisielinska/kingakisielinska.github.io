@@ -2,7 +2,7 @@
 layout: default
 title: Sharing the repository
 parent: GitHub
-nav_order: 5
+nav_order: 6
 ---
  
 # Sharing the repository 

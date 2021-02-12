@@ -2,7 +2,7 @@
 layout: default
 title: Adding documentation to the repository
 parent: GitHub
-nav_order: 4
+nav_order: 5
 ---
  
 # Adding documentation to the repository
@@ -21,5 +21,5 @@ nav_order: 4
 7.	Write a summary in the **Summary** field.
 8.	Click **Commit to main**.
 9.	Click **Push origin**.
-10.	Go to [this website]([https://github.com/ ).
+10.	Go to [this website](https://github.com//).
 11.	Open your repository and verify if the documents uploaded.
