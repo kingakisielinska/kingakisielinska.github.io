@@ -9,7 +9,7 @@ nav_order: 5
 
 
 1.	Open GitHub Desktop.
-2.	Click **Repository** on the navigation bar.
+2.	Click **Repository** in the navigation bar.
 3.	Select **Show in Finder** (MacOS) / **Open in Explorer** (Windows).
 4.	Add the markdown files to this folder.
 5.	Open GitHub Desktop.
@@ -21,5 +21,5 @@ nav_order: 5
 7.	Write a summary in the **Summary** field.
 8.	Click **Commit to main**.
 9.	Click **Push origin**.
-10.	Go to [this website](https://github.com//).
+10.	Go to [this website](https://github.com//) and log in.
 11.	Open your repository and verify if the documents uploaded.
