@@ -10,7 +10,7 @@ permalink: /
 
 # Introduction
 
-*This page is designed for educational purposes.*[: style="text-decoration: underline; font-style: normal;"]  
+*This page is designed for educational purposes.* 
 
 This page is created by Kinga Kisielińska.  
 
