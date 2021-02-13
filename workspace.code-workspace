@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../just-the-docs"
+		},
+		{
+			"path": "../komunikacjatechnicznavistula.github.io"
 		}
 	],
 	"settings": {}
