@@ -32,7 +32,7 @@ nav_order: 4
 15.	Click **Commit to main**.
 16.	Click **Push origin**.
 17.	Go to [this website](https://github.com//) and log in.
-18. Open your repository and verify if the documents uploaded.  
+18. Open your repository and verify if the documents uploaded.
     
     ![environments](/assets/images/environments.png)
 
