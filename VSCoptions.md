@@ -16,7 +16,7 @@ Here are some basic commands:
 
 Use this shortcut:  
 Windows: Shift+Ctrl+p / Mac: Cmd+p, enter > - to open a search bar and Access all available commands based on your current context.  
-Here are some examplary ones:  
+Here are some exemplary ones:  
 
 * **Preview**: Open Preview to the Side  
 * **Whitespace**: View > Render Whitespace

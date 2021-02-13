@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Visual Studio Code instalation
+title: Visual Studio Code installation
 nav_order: 2
 ---
-Visual Studio Code instalation  
+Visual Studio Code installation  
 =======  
 
 ![logo](/assets/images/VSC.png) 
