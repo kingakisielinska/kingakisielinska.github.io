@@ -8,7 +8,7 @@ nav_order: 6
 # Sharing the repository 
 ![sharing](/assets/images/share.png) 
 
-Sharing the repository with users  
+
 1.	Go to [this website](https://github.com//).
 2.	Open your repository.
 3.	Click **Settings** on the right.
