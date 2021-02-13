@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating public repository on GitHub
-parent: GitHub
+parent: GitHub Pages
 nav_order: 1
 ---
  

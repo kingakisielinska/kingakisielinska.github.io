@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing the repository
-parent: GitHub
+parent: GitHub Pages
 nav_order: 3
 ---
  
