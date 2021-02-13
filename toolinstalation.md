@@ -27,7 +27,7 @@ Visual Studio Code instalation
 ![logo](/assets/images/newfile.png) 
 
 3.	Add content.
-4.	On the menu bar, click **File**, select **Save as** and select **md** format.
+4.	On the menu bar, click **File**, select **Save as**, and select **md** format.
 5.	Click **Save** to save the document.  
 
 

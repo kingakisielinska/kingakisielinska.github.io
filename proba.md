@@ -49,11 +49,11 @@ Second paragraph of text. Just put an empty line to make a second paragraph.
 
 
 ## **Example for Bold** 
-Put two asterisks before and after the word or phrase you want.
+Put two asterisks before and after the word or phrase.
 See how to insert **bold** text!
 
 ## **Example for Italics**  
-Put one asterisk before the word or phrase you want.
+Put one asterisk before the word or phrase.
 And that's *how italic is defined*.
 
 ## **Example for Document Title**  
@@ -63,11 +63,11 @@ Put equal sign below the title.
 ## **Example for Header**  
 Put one hashtag for the first level heading.
 Put two hashtags for the second level heading. 
-Put three hashtags for the third level heading and so on. 
+Put three hashtags for the third level heading, and so on. 
 
 
 ## **Example for Bullet List**  
-Put one asterisk, space and provide text.  
+Put one asterisk, space, and provide text.  
 * bullet
 * bullet 2
 * one more bullet
