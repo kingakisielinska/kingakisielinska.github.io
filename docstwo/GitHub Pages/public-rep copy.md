@@ -14,7 +14,6 @@ nav_order: 1
 
 ![createnew](/assets/images/createnew.png)
 
-
 4.	Check **Public** checkbox.
 5.	Click **Create repository**.
 6.	In Quick setup field, click **Set up in Desktop**.  
