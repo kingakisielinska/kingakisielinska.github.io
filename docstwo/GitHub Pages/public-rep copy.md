@@ -12,13 +12,13 @@ nav_order: 1
 2.	Click **Create a new repository** or **New**.
 3.	In Repository name field enter: youraccountname.github.io  
 
-![createnew](/assets/images/createnew.png)
+    ![createnew](/assets/images/createnew.png)
 
 4.	Check **Public** checkbox.
 5.	Click **Create repository**.
 6.	In Quick setup field, click **Set up in Desktop**.  
-
-![createnew](/assets/images/setupin.png)
+    
+    ![createnew](/assets/images/setupin.png)
 
 7.	**Clone a repository** pop-up window in GitHub Desktop displays, opened in URL tab. Choose the local path for your repository
 8.	Click **Clone**.
