@@ -9,7 +9,7 @@ nav_order: 3
 ![sharing](/assets/images/share.png) 
 
 
-1.	Go to [this website](https://github.com//).
+1.	Go to [this website](https://github.com//) and log in.
 2.	Open your repository.
 3.	Click **Settings** on the right.
 4.	In the left navigation panel, go to **Manage access**.

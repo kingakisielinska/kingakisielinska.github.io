@@ -23,7 +23,7 @@ nav_order: 1
 8.	Click **Clone**.
 9.	Select **Open in Visual Studio Code**.
 10.	Add **New File** to your workspace.
-11.	Save the changes.
+11.	Save the changes and save your workspace.
 12.	Open GitHub Desktop.
 13.	Open **Changes** tab and verify if the file uploaded.
 14.	Write a summary in the **Summary** field.
