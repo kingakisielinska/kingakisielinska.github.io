@@ -24,13 +24,17 @@ There is a search bar at the top of the page where you can type in a word of int
 
 On the left side, there is a navigation menu that has the following sub-pages:
 * Introduction
-* Visual Studio Code installation
-* Visual Studio Code basic options
+* Visual Studio Code:
+    - Installation
+    - Basic options
 * Markdown's basics
 * Github:
     - Account on Github
     - GitHub Desktop
     - Creating private repository on GitHub
-    - Creating public repository on GitHub
     - Adding documentation to the repository
+    - Sharing the repository
+* GitHub Pages:
+    - Creating public repository on GitHub
+    - Adding documents to GitHub Pages
     - Sharing the repository
