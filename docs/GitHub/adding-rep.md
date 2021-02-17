@@ -15,10 +15,11 @@ nav_order: 5
 5.	Open GitHub Desktop.
 6.	Open **Changes** tab and verify if the file is uploaded.  
 
-    ![vscoptions](/assets/images/changes.png)   
+    ![changes](/assets/images/changes.png)   
 
 7.	Write a summary in the **Summary** field.
 8.	Click **Commit to master**.
 9.	Click **Push origin**.
+    ![push](/assets/images/push.png)   
 10.	Go to [this website](https://github.com//) and log in.
 11.	Open your repository and verify if the documents uploaded.
