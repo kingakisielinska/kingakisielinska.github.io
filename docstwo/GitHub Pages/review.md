@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Collaborating: review online
+title: Collaborating - review online
 parent: GitHub Pages
 nav_order: 4
 ---
