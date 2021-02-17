@@ -15,7 +15,6 @@ nav_order: 5
 5.	Open GitHub Desktop.
 6.	Open **Changes** tab and verify if the file is uploaded.  
 
-
     ![vscoptions](/assets/images/changes.png)   
 
 7.	Write a summary in the **Summary** field.
