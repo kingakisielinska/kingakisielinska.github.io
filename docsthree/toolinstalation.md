@@ -24,7 +24,6 @@ Visual Studio Code installation
 
 1.	Open Visual Studio Code.
 2. On the menu bar, click **File** and select **New File**.  
-
     ![logo](/assets/images/newfile.png) 
 
 3.	Add content.
@@ -37,7 +36,6 @@ Visual Studio Code installation
 
 1.	Open Visual Studio Code.
 2.	Select **Extensions** from the activity bar.
-
     ![logo](/assets/images/extentions.png)
 
 3.	Search and choose the extension you want to add, Markdown All In One, for example.

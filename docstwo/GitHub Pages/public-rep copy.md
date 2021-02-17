@@ -17,7 +17,6 @@ nav_order: 1
 4.	Check **Public** checkbox.
 5.	Click **Create repository**.
 6.	In Quick setup field, click **Set up in Desktop**.  
-    
     ![createnew](/assets/images/setupin.png)
 
 7.	**Clone a repository** pop-up window in GitHub Desktop displays, opened in URL tab. Choose the local path for your repository
@@ -32,7 +31,6 @@ nav_order: 1
 16.	Click **Push origin**.
 17.	Go to [this website](https://github.com//) and log in.
 18. Open your repository and verify if the documents uploaded.
-    
     ![environments](/assets/images/environments.png)
 
 19. Click **Environments** on the left side of the page. You will be redirected to deployments.
