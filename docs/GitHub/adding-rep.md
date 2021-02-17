@@ -18,7 +18,7 @@ nav_order: 5
     ![vscoptions](/assets/images/changes.png)   
 
 7.	Write a summary in the **Summary** field.
-8.	Click **Commit to main**.
+8.	Click **Commit to master**.
 9.	Click **Push origin**.
 10.	Go to [this website](https://github.com//) and log in.
 11.	Open your repository and verify if the documents uploaded.
