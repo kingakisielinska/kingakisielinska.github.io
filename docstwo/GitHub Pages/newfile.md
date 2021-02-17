@@ -7,9 +7,8 @@ nav_order: 3
  
 # Creating new file  
 
-There are two options for creating new file. You can do this either in Visual Studio Code or GitHub Pages.  
 
-## Option one:
+## How to create a new file in GitHub Pages?
 
 
 1. Go to [this website](https://github.com//) and log in.
