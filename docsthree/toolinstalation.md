@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Visual Studio Code installation
-nav_order: 2
+parent: Visual Studio Code
+nav_order: 1
 ---
 Visual Studio Code installation  
 =======  

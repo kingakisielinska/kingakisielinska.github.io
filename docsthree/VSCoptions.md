@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Visual Studio Code basic options
-nav_order: 3
+parent: Visual Studio Code
+nav_order: 2
 ---
 
 Visual Studio Code basic options
