@@ -23,7 +23,7 @@ Visual Studio Code installation
 # How to create New File?
 
 1.	Open Visual Studio Code.
-2. On the menu bar, click **File** and select **New File**.  
+2. On the menu bar, click **File** and select **New File**.
     ![logo](/assets/images/newfile.png) 
 
 3.	Add content.

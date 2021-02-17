@@ -14,7 +14,7 @@ nav_order: 5
 3.	Select **Show in Finder** (MacOS) / **Open in Explorer** (Windows).
 4.	Add the markdown files to this folder.
 5.	Open GitHub Desktop.
-6.	Open **Changes** tab and verify if the file is uploaded.  
+6.	Open **Changes** tab and verify if the file is uploaded.
     ![changes](/assets/images/changes.png)   
 
 7.	Write a summary in the **Summary** field about the change you made to the file. 
