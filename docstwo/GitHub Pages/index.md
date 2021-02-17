@@ -7,4 +7,4 @@ has_children: true
 
 # GitHub  
 
-Here you can find information about GitHub Pages.
+In this section, you can find information about GitHub Pages.
