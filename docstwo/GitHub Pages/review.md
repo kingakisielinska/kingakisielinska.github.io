@@ -38,3 +38,20 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
     ![branch](/assets/images/branch.png)
 6. Provide the name of the branch and click **Create branch**.
    ![createbranch](/assets/images/createbranch.png)
+7. In GitHub Desktop, select **Open in Visual Studio Code**.
+   ![openin](/assets/images/openin.png)
+8. Apply the changes in the file in Visual Studio Code.
+9. Save the applied changes.
+10. Go to GitHub Desktop.
+11. Open **Changes** tab and verify if the file contains the applied changes.
+12. Write a summary in the **Summary** field about the change you made to the file. 
+13. Click **Commit to [branch name]**.
+14. Click **Push origin**.
+15. Click **Create pull request**.
+16. You are now moved to github.com page. 
+17. In **Open a pull request** window, Use the base branch dropdown menu to select the branch you want to merge your changes into, then use the compare branch drop-down menu to choose the branch you made your changes in.
+   ![compare](/assets/images/compare.png)
+18. Provide a description for your pull request.
+19. Click on the gear icon on the right in **Reviewers** section and assign a person who will review the applied changes.
+   ![reviewers](/assets/images/reviewers.png)
+20. Click **Create pull request**.
