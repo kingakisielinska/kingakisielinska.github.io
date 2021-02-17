@@ -57,11 +57,11 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 16. You are now moved to github.com page. 
 17. In **Open a pull request** window, Use the base branch dropdown menu to select the branch you want to merge your changes into, then use the compare branch drop-down menu to choose the branch you made your changes in.  
 
-   ![compare](/assets/images/compare.png)
+    ![compare](/assets/images/compare.png)
 18. Provide a description for your pull request.
 19. Click on the gear icon on the right in **Reviewers** section and assign a person who will review the applied changes.  
 
-   ![reviewers](/assets/images/reviewers.png)
+    ![reviewers](/assets/images/reviewers.png)
 20. Click **Create pull request**.
 
 

@@ -21,7 +21,6 @@ nav_order: 3
 
      ![namefield](/assets/images/namefile.png)   
 6. On the **Edit new file** tab, add content to the file.  
-
 7. To review the new content, click **Preview**.  
 
      ![preview](/assets/images/preview.png)   
