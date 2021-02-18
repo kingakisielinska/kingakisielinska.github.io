@@ -16,7 +16,7 @@ nav_order: 1
 5. Click **Create repository**.
 6. In Quick setup field, click **Set up in Desktop**.  
    ![createnew](/assets/images/setupin.png)
-7. **Clone a repository** pop-up window in GitHub Desktop displays, opened in URL tab. Choose the local path for your repository
+7. **Clone a repository** pop-up window in GitHub Desktop displays, opened in URL tab. Choose the local path for your repository.
 8. Click **Clone**.
 9.  Select **Open in Visual Studio Code**.
 10. Add **New File** to your workspace.

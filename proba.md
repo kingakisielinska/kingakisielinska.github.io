@@ -36,7 +36,7 @@ How to use Markdown?
 Paragraph of text that spans over one line. See how this displays when I write and write and write.
 What happends when I press Enter? - Nothing! 
 Two spaces after the prevoius line and voila!  
-If I want a line, I put two spaces and then Enter.  
+If I want a line, I put two spaces and then press **Enter**.  
 
 ## **Example for TOC**  
 
@@ -62,9 +62,9 @@ And that's *how italic is defined*.
 Put equal sign below the title. 
 
 ## **Example for Header**  
-Put one hashtag for the first level heading.
-Put two hashtags for the second level heading. 
-Put three hashtags for the third level heading, and so on. 
+Put one hashtag for the first level heading.  
+Put two hashtags for the second level heading.  
+Put three hashtags for the third level heading, and so on.  
 
 
 ## **Example for Bullet List**  
@@ -109,7 +109,7 @@ z=x+y;
 
 ## **Example for Tables**  
   
-  `look [here](https://www.makeuseof.com/tag/create-markdown-table/) for the information on creating tables.  
+Look [here](https://www.makeuseof.com/tag/create-markdown-table/) for the information on creating tables.  
 
 | header           | another header        |
 | ---------------- | --------------------- |
@@ -122,7 +122,7 @@ z=x+y;
 
 ## **Example for Images**  
 
-For the information on adding images, look [here](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
+For the information on adding images, look [here](https://www.digitalocean.com/community/tutorials/markdown-markdown-images).
 
 ![tekst alternatywny](./grafika.jpg)  
   
@@ -131,13 +131,13 @@ For the information on adding images, look [here](https://www.digitalocean.com/c
 
 ## **Example for Links**  
 
-For the information on adding links, look [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+For the information on adding links, look [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links).
 
 [obrazek](https://www.google.com/search?q=obrazek&sxsrf=ALeKk01lj_b7RUFQ3HjpIL_0GI2H_3trgA:1610796152605&tbm=isch&source=iu&ictx=1&fir=nJVKK8Ksecds1M%252CNNKjFUaCLwD_RM%252C_&vet=1&usg=AI4_-kQwn2lVhF8Wy-6CGQBpWrMSKu_DVw&sa=X&ved=2ahUKEwiDy-yjq6DuAhWMHXcKHQKUBaAQ9QF6BAgREAE&biw=1440&bih=802#imgrc=nJVKK8Ksecds1M) 
 
 ## **Example for linking to another file**  
 
-For the information on relative links, look [here](https://github.blog/2013-01-31-relative-links-in-markup-files/)
+For the information on relative links, look [here](https://github.blog/2013-01-31-relative-links-in-markup-files/).
 
 [Reference text](Reference.md
 )
@@ -145,6 +145,3 @@ For the information on relative links, look [here](https://github.blog/2013-01-3
 ## **How to insert a link?**  
 
 Follow this command: ![specify what this is] and provide a link (https://link)
-
-This is Marta's review.
-Everything looks good :)
