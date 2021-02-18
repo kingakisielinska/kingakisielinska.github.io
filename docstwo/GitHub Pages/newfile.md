@@ -15,7 +15,7 @@ nav_order: 3
 2. Open your repository.
 3. In your repository, browse to the folder where you want to create a file.
 4. Above the list of files, using the **Add file** drop-down, click **Create new file**.  
-     ![create](/assets/images/createfile.png)   
+     ![create](/assets/images/createfile.png = 100x20)   
 5. In the file name field, type the name and extension for the file.  
      ![namefield](/assets/images/namefile.png)   
 6. On the **Edit new file** tab, add content to the file.  
