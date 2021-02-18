@@ -14,13 +14,13 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 1. Go to [this website](https://github.com//) and log in.
 2. Open your repository.
 3. Click **Settings** on the right.
-4. In the left navigation panel, go to **Branches**.
+4. Go to **Branches** on the left navigation panel.
 5. Click **Add rule** in **branch protection rules**
 6. Provide a name of the branch and check **Require pull request reviews before merging** checkbox.  
 
    ![rule](/assets/images/rule.png)
 7. Click **Create**.
-8. In the left navigation panel, go to **Manage access**.
+8. Go to **Manage access** on the left navigation panel.
 9.  Provide your password and click **Confirm password**.
 10. Click **Invite a collaborator**.
 11. Search for collaborator in the search bar.
@@ -37,7 +37,7 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 
    ![clone](/assets/images/clone.png)
 4. Open GitHub Desktop.
-5. In the navigation bar, click **Branch** and add **New Branch**.  
+5. Click **Branch** on the navigation bar, and add **New Branch**.  
 
    ![branch](/assets/images/branch.png)
 6. Provide the name of the branch and click **Create branch**.  

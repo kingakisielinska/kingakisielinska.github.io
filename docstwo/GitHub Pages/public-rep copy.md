@@ -35,7 +35,7 @@ nav_order: 1
 
     ![environments](/assets/images/environments.png)
 
-19. Click **Environments** on the left side of the page. You will be redirected to deployments.
-20. Click **View deployment**. Your GitHub page will open.
+19. Click **Environments** on the left side of the page. You are redirected to deployments.
+20. Click **View deployment**. Your GitHub page opens.
 
 ![deployment](/assets/images/deployment.png)

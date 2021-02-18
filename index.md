@@ -10,9 +10,7 @@ permalink: /
 
 # Introduction
 
-*This page is designed for educational purposes.* 
-
-This page is created by Kinga Kisielińska.  
+*This page is designed for educational purposes. created by Kinga Kisielińska.*  
 
 I am a postgraduate student in Technical Communication at Vistula University in Warsaw, Poland. This page contains information gathered during Technical Communication Technologies classes.  
 
@@ -22,7 +20,7 @@ I am a postgraduate student in Technical Communication at Vistula University in 
 
 There is a search bar at the top of the page where you can type in a word of interest.  
 
-On the left side, there is a navigation menu that has the following sub-pages:
+On the left side, there is a navigation menu that contains the following sub-pages:
 * Introduction
 * Visual Studio Code:
     - Installation
@@ -37,4 +35,5 @@ On the left side, there is a navigation menu that has the following sub-pages:
 * GitHub Pages:
     - Creating public repository on GitHub
     - Adding documents to GitHub Pages
-    - Sharing the repository
+    - Creating new file
+    - Collaborating - review online

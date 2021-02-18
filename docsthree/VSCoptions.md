@@ -8,7 +8,7 @@ nav_order: 2
 Visual Studio Code basic options
 =========  
 
-On the navigation bar, click **Help** and select **Interactive Playground**. This option allows you yo try out VS Code's features.    
+Click **Help** on the navigation bar and select **Interactive Playground**. This option allows you yo try out VS Code's features.    
 
 ![vscoptions](/assets/images/vscIEP.png) 
 
@@ -17,6 +17,7 @@ Here are some basic commands:
 
 Use this shortcut:  
 Windows: Shift+Ctrl+p / Mac: Cmd+p, enter > - to open a search bar and Access all available commands based on your current context.  
+
 Here are some exemplary ones:  
 
 * **Preview**: Open Preview to the Side  

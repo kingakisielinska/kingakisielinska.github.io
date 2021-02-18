@@ -35,13 +35,14 @@ How to use Markdown?
 
 Paragraph of text that spans over one line. See how this displays when I write and write and write.
 What happends when I press Enter? - Nothing! 
-Two spaces after the prevoius line and voila! If I want a line, I put two spaces and then Enter. This is still the same paragraph.  
+Two spaces after the prevoius line and voila!  
+If I want a line, I put two spaces and then Enter.  
 
 ## **Example for TOC**  
 
 
 How to create Table of Content?  
-Simply open search bar: Windows: Shift+Ctrl+p / Mac: Cmd+p, enter > ; and type Create Table of Contents.  
+Simply open the search bar: Windows: Shift+Ctrl+p / Mac: Cmd+p, enter ">" ; and type: Create Table of Contents.  
 
 
 ## **Example for Second paragraph**
@@ -99,7 +100,7 @@ If you specify `x=2` then your program substitutes 2 for x.
 ## **A block of code**  
   
   Put ``` before and after the text you want to block.
-Here comes a codeblock:
+Here comes a code block:
 ```
 x=2;
 y=7;

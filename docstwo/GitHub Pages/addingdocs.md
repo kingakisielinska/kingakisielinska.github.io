@@ -7,12 +7,12 @@ nav_order: 2
  
 # How to add documents to GitHub Pages?  
 
-There are two options. First, you can add the file in your workspace in Visual Studio Code. The second option includes adding documents in github.com.  
+There are two options for adding documents. First, you can add the file in your workspace in Visual Studio Code. The second option includes adding documents in github.com.  
 
 ## Option one  
 
 1. Open Visual Studio Code.
-2. In the nagivation bar, select **File**, and **Open Workspace**.  
+2. Click **File** on the navigation bar, and **Open Workspace**.  
 
    ![workspace](/assets/images/workspace.png)
 3. Open the workspace you want to add file to.
@@ -21,7 +21,7 @@ There are two options. First, you can add the file in your workspace in Visual S
 6. Open **Changes** tab and verify if the file uploaded.
 7. Write a summary in the **Summary** field.
 8. Click **Commit to main**.
-9.  Click **Push origin**.  
+9. Click **Push origin**.  
 
 
 ## Option two:
