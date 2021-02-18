@@ -14,11 +14,11 @@ permalink: /
 
 I am a postgraduate student in Technical Communication at Vistula University in Warsaw, Poland. This page contains information gathered during Technical Communication Technologies classes.  
 
-![logo](/assets/images/1-vistul-university-en.png = 100x20)  
+![logo](/assets/images/1-vistul-university-en.png)  
 
 # Navigation
 
-There is a search bar at the top of the page where you can type in a word of interest.  
+There is a search bar at the top of the page where you can type a word of interest.  
 
 On the left side, there is a navigation menu that contains the following sub-pages:
 * Introduction
