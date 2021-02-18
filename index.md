@@ -10,7 +10,7 @@ permalink: /
 
 # Introduction
 
-*This page is designed for educational purposes. created by Kinga Kisielińska.*  
+*This page is designed for educational purposes, created by Kinga Kisielińska.*  
 
 I am a postgraduate student in Technical Communication at Vistula University in Warsaw, Poland. This page contains information gathered during Technical Communication Technologies classes.  
 
