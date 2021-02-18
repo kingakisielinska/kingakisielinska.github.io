@@ -24,9 +24,7 @@ Visual Studio Code installation
 
 1. Open Visual Studio Code.
 2. Click **File** and select **New File** on the navigation bar.  
-
    ![logo](/assets/images/newfile.png) 
-
 3. Add content.
 4. Click **File** on the navigation bar, select **Save as**, and select **md** format.
 5. Click **Save** to save the document.  
@@ -37,9 +35,7 @@ Visual Studio Code installation
 
 1. Open Visual Studio Code.
 2. Select **Extensions** from the activity bar.  
-3. 
    ![logo](/assets/images/extentions.png)
-
-4. Search and choose the extension you want to add, Markdown All In One, for example.
-5. Click on the name of the extension.
-6. Click **Install**.
+3. Search and choose the extension you want to add, Markdown All In One, for example.
+4. Click on the name of the extension.
+5. Click **Install**.

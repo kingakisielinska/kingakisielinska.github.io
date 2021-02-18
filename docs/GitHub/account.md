@@ -15,5 +15,4 @@ nav_order: 1
 4. Check **Email preferences** checkbox if you want to receive emails.  
 5. Verify your account.  
 6. Click **Create account**.  
-
 ![createaccount](/assets/images/createaccount.png)

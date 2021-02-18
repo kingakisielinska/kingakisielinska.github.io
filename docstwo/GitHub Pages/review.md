@@ -17,7 +17,6 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 4. Go to **Branches** on the left navigation panel.
 5. Click **Add rule** in **branch protection rules**
 6. Provide a name of the branch and check **Require pull request reviews before merging** checkbox.  
-
    ![rule](/assets/images/rule.png)
 7. Click **Create**.
 8. Go to **Manage access** on the left navigation panel.
@@ -30,21 +29,16 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 ## How to review the shared file?
 
 1. Open the email you received inviting you to collaborate.  
-
     ![invite](/assets/images/invite.png)
 2. Accept the invitation and click on the highlighted link to open the repository in GitHub Pages.
 3. In this repository, click **Code** to clone the repository and **Open with GitHub Desktop**.  
-
    ![clone](/assets/images/clone.png)
 4. Open GitHub Desktop.
 5. Click **Branch** on the navigation bar, and add **New Branch**.  
-
    ![branch](/assets/images/branch.png)
 6. Provide the name of the branch and click **Create branch**.  
-
     ![createbranch](/assets/images/createbranch.png)
 7. In GitHub Desktop, select **Open in Visual Studio Code**.  
-
    ![openin](/assets/images/openin.png)
 8. Apply the changes in the file in Visual Studio Code.
 9.  Save the applied changes.
@@ -59,7 +53,6 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
    ![compare](/assets/images/compare.png)
 18. Provide a description for your pull request.
 19. Click on the gear icon on the right in **Reviewers** section and assign a person who will review the applied changes.  
-
    ![reviewers](/assets/images/reviewers.png)
 20. Click **Create pull request**.
 
@@ -69,22 +62,17 @@ The GitHub flow allows us to propose and review changes in pull requests. To do 
 1. Open the pull request either by clicking the link on your email or:
    - Go to the repository.
    - Open **Pull requests** tab.  
-
    ![pull](/assets/images/pull.png)
    - Open the file.
 2. Go to **Files changed** tab and review the applied changes.  
-
    ![fileschanged](/assets/images/fileschanged.png)
 3. Click **Review changes** on the right. You have three options:  
-
    ![review](/assets/images/review.png)
     - Select **Comment** to leave general feedback without approving the changes or requesting additional changes.
     - Select **Approve** to submit your feedback and approve merging the changes.
     - Select **Request changes** to submit feedback that must be addressed before the pull request can be merged.
 4. If the changes are approved, select **Merge pull request**.  
-
    ![mergepull](/assets/images/mergepull.png)
 5. Select **Confirm merge**.  
-
    ![confirmmerge](/assets/images/confirmmerge.png)
 6. After merging request is done and the changed content is added to your file in the repository, you can delete branch created during the process.

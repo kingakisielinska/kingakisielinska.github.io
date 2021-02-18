@@ -13,7 +13,6 @@ There are two options for adding documents. First, you can add the file in your 
 
 1. Open Visual Studio Code.
 2. Click **File** on the navigation bar, and **Open Workspace**.  
-
    ![workspace](/assets/images/workspace.png)
 3. Open the workspace you want to add file to.
 4. Drag the created file into the workspace.
@@ -29,7 +28,6 @@ There are two options for adding documents. First, you can add the file in your 
 1. Go to [this website](https://github.com//) and log in.  
 2. Navigate to the main page of the repository.
 3. Above the list of files, using the **Add file** drop-down, click **Upload files**.  
-
     ![upload](/assets/images/upload.png)   
 4. Drag and drop the file or folder you want to upload to your repository.
 5. At the bottom of the page, type a short message that describes the change you made to the file. 
